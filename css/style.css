@@ -625,6 +625,9 @@ a:focus {
   position: relative;
 }
 
+
+
+
 .contact_section .heading_container {
   margin-bottom: 25px;
 }
@@ -794,6 +797,41 @@ a:focus {
 .client_section .carousel-control-next {
   left: initial;
 }
+
+
+*{
+      font-family: Arial, sans-serif;
+    }
+    form{
+      margin: 15px 20px;
+      width: 300px;
+      font-size: 14px;
+    }
+    form h1{
+      text-align: center;
+    }
+    form label{
+      display: block;
+      margin-bottom: 5px;
+    }
+    form input, form textarea{
+      width: 100%;
+      padding: 5px;
+      margin-bottom: 10px;
+      box-sizing: border-box;
+      resize: vertical;
+    }
+    form button{
+      background: #4CAF50;
+      color: white;
+      padding: 10px 15px;
+      margin-top: 5px;
+      border: none;
+      cursor: pointer;
+    }
+    form button:hover{
+      background: green;
+    }
 
 .footer_section {
   background: #178066;
