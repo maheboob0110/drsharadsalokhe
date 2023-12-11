@@ -57,7 +57,7 @@ body {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #90eebf;
+  background-color: #808080;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -173,7 +173,7 @@ a:focus {
 
 .sub_page .hero_area {
   min-height: auto;
-  background-color: #90eebf;
+  background-color: #808080;
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -526,7 +526,7 @@ a:focus {
 }
 
 .doctor_section {
-  background: #90eebf;
+  background: #808080;
 }
 
 .doctor_section .heading_container {
@@ -834,7 +834,7 @@ a:focus {
     }
 
 .footer_section {
-  background: #90eebf;
+  background: #808080;
   color: #ffffff;
   padding: 60px 0 15px 0;
   position: relative;
